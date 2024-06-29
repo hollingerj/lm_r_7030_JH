@@ -6,7 +6,7 @@ A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-https://mybinder.org/v2/gh/hollingerj/conda_binder_2024/py39_r40
+https://notebooks.gesis.org/binder/jupyter/user/hollingerj-lm_r_7030_jh-stcf6bc5/lab/tree/lm_R.ipynb
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
